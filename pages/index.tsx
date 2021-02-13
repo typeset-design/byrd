@@ -26,8 +26,8 @@ function Home() {
           },
         }}
       >
-        <Text as="h1" size="6" weight="bold">
-          byrd.
+        <Text as="h1" size="9" weight="bold">
+          Typeset
         </Text>
 
         <Text
@@ -39,7 +39,7 @@ function Home() {
             maxWidth: '320px',
           }}
         >
-          The personal design system of <Link href="https://ped.ro">ped.ro</Link> and his side
+          The personal design system of <Link href="https://">ped.ro</Link> and his side
           projects.
         </Text>
       </Section>
@@ -175,7 +175,7 @@ function Home() {
                 bp3: { marginBottom: 0 },
               }}
             >
-              System 700
+              System 7000
             </Text>
             <Text
               size={{ initial: '6', bp1: '7', bp2: '8', bp3: '9' }}
